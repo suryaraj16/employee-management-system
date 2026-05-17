@@ -31,3 +31,23 @@ A full-stack MERN application to manage employee records.
 cd backend
 npm install
 npm run dev
+```
+
+### Frontend
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+## API Routes
+
+| Method | Route | Description |
+|--------|-------|-------------|
+| GET | /api/employees | Get all employees |
+| POST | /api/employees | Add employee |
+| DELETE | /api/employees/:id | Delete employee |
+
+## Author
+Surya Raj
